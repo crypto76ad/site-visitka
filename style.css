@@ -58,7 +58,7 @@ header, main, footer {
 #panorama {
     width: 100%;
     height: 150px;
-    background: url(../2.jpg) no-repeat center 70%;
+    background: url(2.jpg) no-repeat center 70%;
     background-size: cover;
 }
 
